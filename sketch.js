@@ -7,7 +7,6 @@ function preload(){
     network = loadJSON("assets/network_data.json");
 }
 
-
 function setup(){
     createCanvas(1280, 720);
     background(0);
